@@ -1,2 +1,2 @@
 # Command-Line
-A simple program that forks to run programs as given by the user
+An assignment from my operating systems class. This program forks to run processes as given by the user.
